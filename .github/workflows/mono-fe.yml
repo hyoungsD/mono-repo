@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'fe-next/**'
-      - '.github/workflows/fe.yml'
+      - '.github/workflows/mono-fe.yml'
   workflow_dispatch:
 
 jobs:
